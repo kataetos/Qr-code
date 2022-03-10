@@ -1,0 +1,30 @@
+body{
+    background-color: #B0E0E6;
+}
+
+div {
+    text-align: center;
+    padding: 150px;
+    }
+    .frame {
+        width: 200px;
+        height: 400px;
+        border: 4px none white;
+        background: #eee;
+        margin: auto;
+        padding: 20px 30px;
+        border-radius: 10%;
+    
+    }
+  img {
+     
+    width : 200px;
+    height : 200px;
+    
+  }
+  
+  
+  
+  
+  
+ 
